@@ -17,13 +17,13 @@
 
 Here’s how the app works from your terminal:
 
-![Menu](images/screenshot1.png)  
+![Menu](images/menu.png)  
 *Clean menu-driven interface*
 
-![Add Note](images/screenshot2.png)  
+![Add Note](images/add-note.png)  
 *Typing and saving a new note*
 
-![View Notes](images/screenshot3.png)  
+![View Notes](images/view-notes.png)  
 *Listing all notes from the file*
 
 ---
